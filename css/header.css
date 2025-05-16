@@ -1,0 +1,17 @@
+header{
+    width: 100%;
+    background-color: #0fca7d;
+    padding: 20px;
+}
+
+header h2{
+    color: #ffffff;
+    font-size: 3em;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+header h2:hover{
+    color: #121212
+}
